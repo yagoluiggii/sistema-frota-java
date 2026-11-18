@@ -1,1 +1,1 @@
-
+Esqueleto inicial do projeto.
